@@ -81,5 +81,3 @@ Enter a number: 7
 This project is free to use for educational purposes. No specific license applies.
 
 ---
-
-Feel free to tweak this based on your needs! Let me know if you’d like further enhancements. 😊
